@@ -1,6 +1,6 @@
 {
   "name": "Ensi Voice Assistant RespeakerLite",
-  "version": "2025.02.10-1122",
+  "version": "2025.02.10-1248",
   "home_assistant_domain": "esphome",
   "new_install_prompt_erase": false,
   "builds": [
@@ -8,7 +8,7 @@
       "chipFamily": "ESP32-S3",
       "ota": {
         "path": "respeaker-satellite.ota.bin",
-        "md5": "44aec9edfd392d305342a2b0d202282b",
+        "md5": "6a01716991c50f93e6bad479d812d9b0",
         "release_url": "https://github.com/Solace-smart/ensi-esphome-releases"
       }
     }
