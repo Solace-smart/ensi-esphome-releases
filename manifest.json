@@ -1,6 +1,6 @@
 {
   "name": "Ensi Voice Assistant RespeakerLite",
-  "version": "2025.02.11-0845",
+  "version": "2025.02.21-1344",
   "home_assistant_domain": "esphome",
   "new_install_prompt_erase": false,
   "builds": [
@@ -14,8 +14,8 @@
       ],
       "ota": {
         "path": "respeaker-satellite.ota.bin",
-        "md5": "82b222ccce8016ab8b6d5a8a9ddc3f29",
-        "release_url": "https://github.com/Solace-smart/ensi-VA-RespeakerLite-ESPHome/releases/tag/v2025.02.11-0845"
+        "md5": "f91be0ef86413dd16847db5c6a4f4ae8",
+        "release_url": "https://github.com/Solace-smart/ensi-VA-RespeakerLite-ESPHome/releases/tag/v2025.02.21-1344"
       }
     }
   ]
