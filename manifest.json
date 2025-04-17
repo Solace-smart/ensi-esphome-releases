@@ -1,6 +1,6 @@
 {
   "name": "Ensi Voice Assistant RespeakerLite",
-  "version": "2025.04.17-1624",
+  "version": "2025.04.17-1830",
   "home_assistant_domain": "esphome",
   "new_install_prompt_erase": false,
   "builds": [
@@ -14,7 +14,7 @@
       ],
       "ota": {
         "path": "respeaker-satellite.ota.bin",
-        "md5": "c90f1c1c809e2607cd608a224aff9ec4"
+        "md5": "28306ad596fffaacd86d9b9ae2d574e3"
       }
     }
   ]
